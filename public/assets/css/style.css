@@ -1,0 +1,25 @@
+body {
+	background-color: #c5b358;
+	color: black;
+}
+
+.center{
+	text-align: center;
+	clear: left;
+	clear: right;
+	margin-top: 20px;
+}
+
+#box{overflow:auto;
+	text-align:center;
+}
+
+#uneaten{
+	margin-left: 20%;
+	float: left;
+}
+
+#eaten{
+	margin-left: 20%;
+	float: left:
+}
